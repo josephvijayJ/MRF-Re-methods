@@ -177,3 +177,8 @@ const output = user.filter(x => x.age>25)
                 .map(x => x.firstname);
 console.log(output);
 
+output:
+
+[ 'Joseph', 'Elon', 'Deepika' ]
+
+*/
